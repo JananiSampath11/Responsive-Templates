@@ -10,7 +10,7 @@ body{
 }
 .left{
     width:100%;
-    background-color: rgb(250, 252, 252);
+    background-color: gray;
 }
 .cone{
     width: 70%;
